@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"fa363a63451ae770","type":"group","x":-32,"y":-1100,"width":1872,"height":1380,"label":"NetSuite AI Agent"},
+		{"id":"c78f7ce629911604","type":"file","file":"Bucket List.md","x":-6,"y":-1960,"width":788,"height":680},
+		{"id":"f5c543f30d65c027","type":"file","file":"Projects/NetSuite AI Agent/TODO.md","x":-6,"y":-1058,"width":466,"height":458},
+		{"id":"c27acea8760a8516","type":"file","file":"NetSuite AI Agent.md","x":-800,"y":-800,"width":527,"height":500,"color":"5"},
+		{"id":"a80313e4d00773da","type":"file","file":"Projects/NetSuite AI Agent/Model Cost.md","x":-6,"y":-550,"width":466,"height":760},
+		{"id":"fc005a92193ae920","type":"file","file":"Projects/NetSuite AI Agent/Agent Tools.md","x":1120,"y":-550,"width":682,"height":760},
+		{"id":"4a4328fe6f424333","type":"file","file":"Projects/NetSuite AI Agent/Chatbot Flow.md","x":1120,"y":-1058,"width":682,"height":458},
+		{"id":"925b7dd2b5f0115b","type":"file","file":"Projects/NetSuite AI Agent/Deployment.md","x":526,"y":-1058,"width":522,"height":458},
+		{"id":"c3cf558ed60c4188","type":"file","file":"Projects/NetSuite AI Agent/Pathways.md","x":526,"y":-550,"width":527,"height":760}
+	],
+	"edges":[
+		{"id":"a687ca0b55d19653","fromNode":"fa363a63451ae770","fromSide":"left","toNode":"c27acea8760a8516","toSide":"right"}
+	]
+}

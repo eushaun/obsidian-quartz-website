@@ -1,0 +1,2 @@
+- Chatbot using Databricks Apps
+- Create a Slackbot that interacts with agent endpoint
