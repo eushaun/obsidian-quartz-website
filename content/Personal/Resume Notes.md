@@ -1,3 +1,5 @@
+#career
+
 1. Experience working in fast paced environment and handling multiple stakeholders
 2. Successfully transformed the business into making data driven decisions leading to revenue growth from 50m to 77m
 3. Contributed to global scaling projects in the business such as Shopify launch, Amazon launch, various integration projects

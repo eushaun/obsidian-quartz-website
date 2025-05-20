@@ -7,47 +7,47 @@ aliases:
 
 ## To Do
 
-- [ ] Learn Spark theory
-- [ ] Build personal website
-- [ ] Media Mix Modelling project
-- [ ] Configure Traefik
-- [ ] Deploy [Homepage](https://gethomepage.dev/installation/)
-- [ ] Swap Plex to Jellyfin
-- [ ] Experiment with NixOS / Arch Linux
-- [ ] Deploy [Perlite](https://github.com/secure-77/Perlite) or [Quartz](https://quartz.jzhao.xyz/) for Obsidian
+- [ ] #work Learn Spark theory
+- [ ] #work Media Mix Modelling project
+- [ ] Configure reverse proxy tools i.e. Traefik, Caddy, Nginx
+- [ ] #tech Deploy [Homepage](https://gethomepage.dev/installation/)
+- [ ] #tech Swap Plex to Jellyfin
+- [ ] #tech Experiment with NixOS / Arch Linux
 
 
 ## In progress
 
-- [ ] 186 PR Grant!!!!
-- [ ] [[NetSuite AI Agent]]
-- [ ] Learn about MCP servers
-- [ ] Switch from Ollama to Llama.cpp or KoboldCPP
+- [ ] #life 186 PR Grant!!!!
+- [ ] #work [[NetSuite AI Agent]]
+- [ ] #work Learn about MCP servers
+- [ ] #tech Switch from Ollama to Llama.cpp or KoboldCPP
 
 
 ## Done \(2025\)
 
-- [x] Setup Prefect
-- [x] [[Jeju Planning]]
-- [x] Read Barefoot Investor
-- [x] Change superannuation from AusSuper to Hostplus
-- [x] Invest in ETFs
-- [x] Setup Tailscale
-- [x] Setup Pi-hole
-- [x] Obsidian Live-sync
+- [ ] #tech Build [personal website](https://eushaun.xyz)
+- [ ] #tech Deploy [Quartz](https://quartz.jzhao.xyz/) for Obsidian
+- [x] #tech Setup Prefect
+- [x] #life [[Jeju Planning]]
+- [x] #life Read Barefoot Investor
+- [x] #finance Change superannuation from AusSuper to Hostplus
+- [x] #finance Invest in ETFs
+- [x] #tech Setup Tailscale
+- [x] #tech Setup Pi-hole
+- [x] #tech Obsidian Live Sync
 
 
 ## Done \(2024\)
 
-- [x] Deploy Ollama on PC
-- [x] Get NSW driving license
-- [x] Integrate Ollama with VS Code/Continue
+- [x] #tech Deploy Ollama on PC
+- [x] #life Get NSW driving license
+- [x] #tech Integrate Ollama with VS Code/Continue
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[null,false,false,true]}
+{"kanban-plugin":"list","list-collapse":[null,false,true,true]}
 ```
 %%
