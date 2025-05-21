@@ -9,7 +9,7 @@ aliases:
 
 - [ ] #work Learn Spark theory
 - [ ] #work Media Mix Modelling project
-- [ ] Configure reverse proxy tools i.e. Traefik, Caddy, Nginx
+- [ ] #tech Configure reverse proxy tools i.e. Traefik, Caddy, Nginx
 - [ ] #tech Deploy [Homepage](https://gethomepage.dev/installation/)
 - [ ] #tech Swap Plex to Jellyfin
 - [ ] #tech Experiment with NixOS / Arch Linux
@@ -25,8 +25,8 @@ aliases:
 
 ## Done \(2025\)
 
-- [ ] #tech Build [personal website](https://eushaun.xyz)
-- [ ] #tech Deploy [Quartz](https://quartz.jzhao.xyz/) for Obsidian
+- [x] #tech Build [personal website](https://eushaun.xyz) ✅ 2025-05-21
+- [x] #tech Deploy [Quartz](https://quartz.jzhao.xyz/) for Obsidian ✅ 2025-05-21
 - [x] #tech Setup Prefect
 - [x] #life [[Jeju Planning]]
 - [x] #life Read Barefoot Investor
