@@ -25,8 +25,8 @@ aliases:
 
 ## Done \(2025\)
 
-- [x] #tech Build [personal website](https://eushaun.xyz) ✅ 2025-05-21
-- [x] #tech Deploy [Quartz](https://quartz.jzhao.xyz/) for Obsidian ✅ 2025-05-21
+- [x] #tech Build [personal website](https://eushaun.xyz)
+- [x] #tech Deploy [Quartz](https://quartz.jzhao.xyz/) for Obsidian
 - [x] #tech Setup Prefect
 - [x] #life [[Jeju Planning]]
 - [x] #life Read Barefoot Investor
