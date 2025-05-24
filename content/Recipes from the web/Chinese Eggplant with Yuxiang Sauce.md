@@ -1,5 +1,5 @@
 ---
-title: "Dad's Chinese Eggplant with Yuxiang Sauce: A Chinese Chef's Secrets (18 min prep)!"
+title: "Chinese Eggplant with Yuxiang Sauce"
 source: https://www.madewithlau.com/recipes/steamed-chinese-eggplant
 video: https://youtu.be/934wRgbKjEY
 author:
@@ -28,30 +28,30 @@ If you're looking for more eggplant recipes, also try my dad's [Chinese Stuffed 
 ## Ingredients
 
 ### Main Ingredients
-- **454g** eggplant
-- **2teaspoon** rice vinegar
-- **0.50** red bell pepper
-- **2 stalk** scallion
-- **14.2g** ginger
-- **2** Thai bird's eye chili
-- **3 clove** garlic
-- **113g** pork shoulder (or pork butt)
-- **2tablespoon** vegetable oil
-- **1teaspoon** cooking wine
-- **1teaspoon** sesame oil
+- 454g eggplant
+- 2teaspoon rice vinegar
+- 0.50 red bell pepper
+- 2 stalk scallion
+- 14.2g ginger
+- 2 Thai bird's eye chili
+- 3 clove garlic
+- 113g pork shoulder (or pork butt)
+- 2tablespoon vegetable oil
+- 1teaspoon cooking wine
+- 1teaspoon sesame oil
 ### Pork Marinade
-- **1tablespoon** cornstarch
-- **2tablespoon** water
-- **2teaspoon** light soy sauce
+- 1tablespoon cornstarch
+- 2tablespoon water
+- 2teaspoon light soy sauce
 ### Yuxiang Sauce
-- **2tablespoon** light soy sauce
-- **1tablespoon** oyster sauce
-- **2teaspoon** dark soy sauce
-- **1tablespoon** rice vinegar
-- **4tablespoon** water
+- 2tablespoon light soy sauce
+- 1tablespoon oyster sauce
+- 2teaspoon dark soy sauce
+- 1tablespoon rice vinegar
+- 4tablespoon water
 ### Slurry Ingredients
-- **1teaspoon** cornstarch
-- **1tablespoon** water
+- 1teaspoon cornstarch
+- 1tablespoon water
 ## Understanding Flavor
 
 ### On eggplant

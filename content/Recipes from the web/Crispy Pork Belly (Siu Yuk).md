@@ -1,5 +1,5 @@
 ---
-title: "Dad's Cantonese Crispy Pork Belly (Siu Yuk): A Chinese Chef's Secrets (Video)!"
+title: "Cantonese Crispy Pork Belly (Siu Yuk)"
 source: https://www.madewithlau.com/recipes/siu-yuk-crispy-pork-belly
 video: https://youtu.be/zkCoAKTbHpQ
 author:
@@ -24,21 +24,21 @@ It’s no surprise that siu yuk is by far our most-requested recipe yet! This is
 ## Ingredients
 
 ### Main Ingredients (3 servings)
-- **553g** pork belly
-- **11.1 mL** salt
-- **3.7 mL** white rice vinegar (or white vinegar)
-- **88.7 mL** water
+- 553g pork belly
+- 0.75 tbsp salt
+- 0.75 tsp white rice vinegar (or white vinegar)
+- 0.38 cup water
 
 ### Dry rub
-- **1.8 mL** five-spice powder
-- **1.2 mL** black pepper
-- **0.92 mL** white pepper
-- **3.7 mL** garlic salt
-- **1.8 mL** salt
+- 0.38 mL five-spice powder
+- 0.25 tsp black pepper
+- 0.19 tsp white pepper
+- 0.75 tsp garlic salt
+- 0.38 tsp salt
 
 ### Marinade
-- **7.4 mL** ground bean sauce
-- **3.7 mL** sugar
+- 1.5 tsp ground bean sauce
+- 0.75 tsp sugar
 ## Understanding Flavor
 
 Learn how to recreate the Cantonese flavors you love by demystifying and mastering a handful of core, traditional ingredients
@@ -69,17 +69,17 @@ Anything sharp and thin will do! We use a pair of toothpicks, but you can easily
 
 ### Step 1: Parboil pork belly
 
-Prepare 2 cups of water, or just enough to submerge the slab of pork belly, in a pan or wok. Turn the heat to high and bring the water to a boil.
+Prepare 2 cups of water, or just enough to submerge the slab of **pork belly**, in a pan or wok. Turn the heat to high and bring the water to a boil.
 
-When the water is at a full rolling boil, carefully place the pork belly (1.6 lb) in, skin side down. Cook on high heat until the skin changes color, which should take about 1 minute.
+When the water is at a full rolling boil, carefully place the **pork belly** in, skin side down. Cook on high heat until the skin changes color, which should take about 1 minute.
 
-Flip the pork belly over and cook with the meat side down until the color changes, which should take 30 to 45 seconds.
+Flip the **pork belly** over and cook with the meat side down until the color changes, which should take 30 to 45 seconds.
 
 **Time-saving Tip:** While you're waiting for the pork belly to parboil, prepare a large bowl of cold, clean water.
 
 ### Step 2: Clean and prep skin side
 
-Remove the parboiled pork belly from the boiling water and place it into the bowl of cold water.
+Remove the parboiled **pork belly** from the boiling water and place it into the bowl of cold water.
 
 **Chef's Tip:** Holding a knife upright, but moving it sideways so that it doesn't cut down into the pork, scrape the surface of the skin. This will remove debris and hair.
 
@@ -89,25 +89,25 @@ Use sharp, thin utensils, like a pair of toothpicks or a fork, to poke holes in 
 
 ### Step 3: Prep meat side
 
-Flip the pork belly skin-side down. Cut two long slashes into the meat side, making sure to not cut all the way through. Stop before you hit the skin.
+Flip the **pork belly** skin-side down. Cut two long slashes into the meat side, making sure to not cut all the way through. Stop before you hit the skin.
 
 Then, score the meat perpendicular to those initial cuts, creating squares. These cuts will allow the flavor to penetrate into the meat better.
 
-In a separate bowl, prepare the dry seasoning rub by combining five-spice powder (0.50 tsp), black pepper (0.33 tsp), white pepper (0.25 tsp), garlic salt (1 tsp), and salt (0.50 tsp).
+In a separate bowl, prepare the **dry seasoning rub** by combining **five-spice powder** (0.50 tsp), **black pepper** (0.33 tsp), **white pepper** (0.25 tsp), **garlic salt** (1 tsp), and **salt** (0.50 tsp).
 
-Sprinkle the dry seasoning sub all over the meat side of the pork belly, rubbing it into all the scored crevices. You may find that you don't need all of the seasoning rub.
+Sprinkle the **dry seasoning** rub all over the meat side of the **pork belly**, rubbing it into all the scored crevices. You may find that you don't need all of the seasoning rub.
 
-To your bowl of leftover seasoning rub, add ground bean sauce (2 tsp) and sugar (1 tsp). Mix to combine, then apply the sauce all over the meat side of the pork belly. You can brush it on with a spoon, paint it on with a brush, or spread it with your fingers. Again, make sure to get into the crevices, and don't apply any sauce to the skin.
+To your bowl of leftover seasoning rub, add **ground bean sauce** (2 tsp) and **sugar** (1 tsp). Mix to combine, then apply the sauce all over the meat side of the pork belly. You can brush it on with a spoon, paint it on with a brush, or spread it with your fingers. Again, make sure to get into the crevices, and don't apply any sauce to the skin.
 
-Prepare a piece of aluminum foil that's bigger than the meat; there needs to be some room on the sides to fold up into walls, and you may want a double layer of foil for structural integrity. Place the pork belly into the center of the foil, with the skin side up. Fold the sides up to create short walls, creating a dish around the pork belly. This will protect the bottom of the pork belly, keeping it from burning in the oven and preserving its juiciness.
+Prepare a piece of aluminum foil that's bigger than the meat; there needs to be some room on the sides to fold up into walls, and you may want a double layer of foil for structural integrity. Place the **pork belly** into the center of the foil, with the skin side up. Fold the sides up to create short walls, creating a dish around the pork belly. This will protect the bottom of the pork belly, keeping it from burning in the oven and preserving its juiciness.
 
 ### Step 4: More skin prep
 
-Sprinkle salt (1 tbsp) over the skin and rub it all over. This will draw out the moisture, resulting in a crispier texture later. Let it sit for 5 minutes; you'll see the surface of the skin become shiny and wet. Wipe the salt and moisture off with a paper towel. To get the salt off more precisely, you can also use a knife to scrape it off.
+Sprinkle **salt** (1 tbsp) over the skin and rub it all over. This will draw out the moisture, resulting in a crispier texture later. Let it sit for 5 minutes; you'll see the surface of the skin become shiny and wet. Wipe the salt and moisture off with a paper towel. To get the salt off more precisely, you can also use a knife to scrape it off.
 
-Then, pour white rice vinegar (1 tsp) over the skin and spread it around. This will further help the skin get that ideal crispy texture.
+Then, pour **white rice vinegar** (1 tsp) over the skin and spread it around. This will further help the skin get that ideal crispy texture.
 
-Then, refrigerate the pork belly overnight, at least 10 to 12 hours. This resting period in the refrigerator is essential for drying out the skin enough for the pork belly to roast properly.
+Then, **refrigerate the pork belly** overnight, at least 10 to 12 hours. This resting period in the refrigerator is essential for drying out the skin enough for the pork belly to roast properly.
 
 ### Step 5: Cook in oven
 

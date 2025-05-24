@@ -1,5 +1,5 @@
 ---
-title: "Dad's Air Fryer Chicken Breast: A Chinese Chef's Secrets (13 min prep)!"
+title: "Air Fryer Chicken Breast"
 source: https://www.madewithlau.com/recipes/air-fryer-chicken-breast
 video: https://youtu.be/Ip0IH3I3GK8
 author:
@@ -32,25 +32,25 @@ Air fryer chicken breast is a versatile dinner main that's great with almost any
 ## Ingredients
 
 ### Main Ingredients
-- **1.5oz** skin-on, bone-in chicken breast
-- **0.50teaspoon salt
-- **0.50teaspoon** oil
-- **0.50teaspoon** cornstarch
+- 1.5oz skin-on, bone-in chicken breast
+- 0.5 teaspoon salt
+- 0.5 teaspoon oil
+- 0.5 teaspoon cornstarch
 
 ### Marinade Ingredients
-- **1tablespoon** garlic salt
-- **1tablespoon** fish sauce
-- **tablespoon** oyster sauce
-- **1teaspoon** light soy sauce
-- **3teaspoon** sugar
-- **2teaspoon** cooking wine
-- **1tablespoon** cornstarch
-- **0.33teaspoon** white pepper
+- 1tablespoon garlic salt
+- 1tablespoon fish sauce
+- tablespoon oyster sauce
+- 1teaspoon light soy sauce
+- 3teaspoon sugar
+- 2teaspoon cooking wine
+- 1tablespoon cornstarch
+- 0.33teaspoon white pepper
 ### Dipping Sauce Ingredients
-- **1tablespoon oyster sauce
-- **1tablespoon** light soy sauce
-- **1tablespoon hoisin sauce
-- **1tablespoon boiling water
+- 1tablespoon oyster sauce
+- 1tablespoon light soy sauce
+- 1tablespoon hoisin sauce
+- 1tablespoon boiling water
 
 ## Instructions
 

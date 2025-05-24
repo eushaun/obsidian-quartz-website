@@ -1,5 +1,5 @@
 ---
-title: Shaun's Obsidian Vault
+title: Homepage
 ---
 Hello, my name is Shaun and welcome to my digital garden! I work as a Data Engineer in Sydney, Australia and this website is a hobby project that I've wanted to create for quite some time.
 
@@ -17,10 +17,10 @@ Thought process on creating this website:
 
 I mainly wanted to build a simple website that: 
 - Points to various side projects that I have been working on
-- Creates documentations on said side projects
-- Is able to share and access notes anywhere
+- Create documentations on said side projects
+- Able to share and access notes anywhere
 - (Maybe in the future) Create a blog
 
 Bonus features in using Obsidian to build the website:
 - Combines my personal notes with the website
-- A "bucket list" to track TODOs and accomplishments
+- A [[Bucket List]] to track TODOs and accomplishments
