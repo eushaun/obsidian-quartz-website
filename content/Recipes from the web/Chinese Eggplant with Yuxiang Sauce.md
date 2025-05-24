@@ -29,29 +29,29 @@ If you're looking for more eggplant recipes, also try my dad's [Chinese Stuffed 
 
 ### Main Ingredients
 - 454g eggplant
-- 2teaspoon rice vinegar
+- 2tsp rice vinegar
 - 0.50 red bell pepper
 - 2 stalk scallion
 - 14.2g ginger
 - 2 Thai bird's eye chili
 - 3 clove garlic
 - 113g pork shoulder (or pork butt)
-- 2tablespoon vegetable oil
-- 1teaspoon cooking wine
-- 1teaspoon sesame oil
+- 2tbsp vegetable oil
+- 1tsp cooking wine
+- 1tsp sesame oil
 ### Pork Marinade
-- 1tablespoon cornstarch
-- 2tablespoon water
-- 2teaspoon light soy sauce
+- 1tbsp cornstarch
+- 2tbsp water
+- 2tsp light soy sauce
 ### Yuxiang Sauce
-- 2tablespoon light soy sauce
-- 1tablespoon oyster sauce
-- 2teaspoon dark soy sauce
-- 1tablespoon rice vinegar
-- 4tablespoon water
+- 2tbsp light soy sauce
+- 1tbsp oyster sauce
+- 2tsp dark soy sauce
+- 1tbsp rice vinegar
+- 4tbsp water
 ### Slurry Ingredients
-- 1teaspoon cornstarch
-- 1tablespoon water
+- 1tsp cornstarch
+- 1tbsp water
 ## Understanding Flavor
 
 ### On eggplant
@@ -70,7 +70,7 @@ American eggplant is also known as globe eggplant because of its short, squat sh
 
 Start by slicing off the ends of the **eggplant** (454 g). Peel off some of the skin, but not all. If you remove all of the skin, the eggplant will get too soft and soggy during cooking. Next, cut the eggplant into quarters. Slice down the center the long way, then halve again. You should have four slices per eggplant. Remove the core and seeds.
 
-Fill a large mixing bowl with **cold water** and pour in the **rice vinegar** (2 teaspoon). Add the **eggplant** and allow it to soak as your prep the rest of the ingredients. This will help remove some of the vegetable's natural bitterness.
+Fill a large mixing bowl with **cold water** and pour in the **rice vinegar** (2 tsp). Add the **eggplant** and allow it to soak as your prep the rest of the ingredients. This will help remove some of the vegetable's natural bitterness.
 
 ### Step 2: Prep aromatics
 
@@ -86,15 +86,15 @@ Finally, mince the **garlic** (3 clove).
 
 Mince the **pork** (113 g). Cut the piece of meat into long pieces about a 1/4-inch thick. Rotate the strips 90 degrees and roughly chop until the meat is finely minced. You can also use **ground pork**.
 
-Place the **minced pork** in a bowl and move it to one side. Add the **cornstarch** (1 tablespoon), **water** (2 tablespoon), and **light soy sauce** (2 teaspoon). Stir the marinade ingredients together first to thoroughly combine before mixing it with the pork. This will ensure that there are no clumps. Doing it this way in one bowl will also save you a dish!
+Place the **minced pork** in a bowl and move it to one side. Add the **cornstarch** (1 tbsp), **water** (2 tbsp), and **light soy sauce** (2 tsp). Stir the marinade ingredients together first to thoroughly combine before mixing it with the pork. This will ensure that there are no clumps. Doing it this way in one bowl will also save you a dish!
 
 **To make vegetarian:** Substitute with mushrooms or a plant-based meat of your choice.
 
 ### Step 4: Prep sauce
 
-In a separate bowl, mix together the **light soy sauce** (2 tablespoon), **oyster sauce** (1 tablespoon), **dark soy sauce** (2 teaspoon), **rice vinegar** (1 tablespoon), and **water** (4 tablespoon). Taste and adjust the sweetness and tartness levels according to your preference.
+In a separate bowl, mix together the **light soy sauce** (2 tbsp), **oyster sauce** (1 tbsp), **dark soy sauce** (2 tsp), **rice vinegar** (1 tbsp), and **water** (4 tbsp). Taste and adjust the sweetness and tartness levels according to your preference.
 
-Use a small bowl to make the slurry. Stir together the **cornstarch** (1 teaspoon) and the **water** (1 tablespoon), then set aside.
+Use a small bowl to make the slurry. Stir together the **cornstarch** (1 tsp) and the **water** (1 tbsp), then set aside.
 ### Step 5: Steam eggplant
 
 Remove the **eggplant** from the water and squeeze out any excess liquid. Cut the **eggplant** into 1/2-inch pieces. My dad likes to slice them at an angle. Place on the plate you plan to steam them in. Set aside.
@@ -105,12 +105,12 @@ Once done, remove the eggplant and pour out any excess liquid.
 
 ### Step 6: Stir fry pork
 
-Set a wok over high heat. Once hot, add in the cooking oil (2 tablespoon). My dad uses vegetable oil in this recipe. Once the oil begins to smoke, add in the **marinated pork** and spread it out into a patty. Let it brown and fry for about 45 seconds before flipping the pork.
+Set a wok over high heat. Once hot, add in the cooking oil (2 tbsp). My dad uses vegetable oil in this recipe. Once the oil begins to smoke, add in the **marinated pork** and spread it out into a patty. Let it brown and fry for about 45 seconds before flipping the pork.
 
 Add the **chilies**, **garlic**, **ginger**, and **scallion whites**. Stir fry all the ingredients together for 2 minutes. Turn off the heat and continue to stir fry, breaking the pork up into pieces.
 
-Turn the heat back on to medium. Add the **cooking wine** (1 teaspoon) and stir fry for 1 minute. Add the **sauce mixture**, followed by the **red bell peppers** and stir fry for 2 minutes. Add 1 tablespoon of water if stir fry looks dry.
+Turn the heat back on to medium. Add the **cooking wine** (1 tsp) and stir fry for 1 minute. Add the **sauce mixture**, followed by the **red bell peppers** and stir fry for 2 minutes. Add 1 tbsp of water if stir fry looks dry.
 
-Give the **slurry** a quick stir, lower the heat, then slowly add it to the wok as your mix the pork. Turn off the heat and add the sesame oil (1 teaspoon).
+Give the **slurry** a quick stir, lower the heat, then slowly add it to the wok as your mix the pork. Turn off the heat and add the sesame oil (1 tsp).
 
 Pour the stir-fried meat sauce evenly over the steamed eggplant, then garnish the the scallions greens.

@@ -25,20 +25,20 @@ It’s no surprise that siu yuk is by far our most-requested recipe yet! This is
 
 ### Main Ingredients (3 servings)
 - 553g pork belly
-- 0.75 tbsp salt
-- 0.75 tsp white rice vinegar (or white vinegar)
-- 0.38 cup water
+- 0.75tbsp salt
+- 0.75tsp white rice vinegar (or white vinegar)
+- 0.38cup water
 
 ### Dry rub
-- 0.38 mL five-spice powder
-- 0.25 tsp black pepper
-- 0.19 tsp white pepper
-- 0.75 tsp garlic salt
-- 0.38 tsp salt
+- 0.38mL five-spice powder
+- 0.25tsp black pepper
+- 0.19tsp white pepper
+- 0.75tsp garlic salt
+- 0.38tsp salt
 
 ### Marinade
-- 1.5 tsp ground bean sauce
-- 0.75 tsp sugar
+- 1.5tsp ground bean sauce
+- 0.75tsp sugar
 ## Understanding Flavor
 
 Learn how to recreate the Cantonese flavors you love by demystifying and mastering a handful of core, traditional ingredients
@@ -57,7 +57,7 @@ One of the best parts of siu yuk is its texture. If done right, the skin is puff
 
 To season crispy pork belly, the dry rub must include five-spice powder. Our recipe for the dry rub includes five-spice powder, black pepper, white sugar, garlic salt, and salt. For even more improved flavor, we also apply ground bean paste and sugar over the dry rub. To ensure that the flavor gets all the way into the pork, we suggest scoring the meat so the rub and marinade can actually get in there. See our recipe for precise ratios, and watch our video to see the scoring method!
 
-### What temperature do you roast crispy pork belly at?**
+### What temperature do you roast crispy pork belly at?
 
 In our crispy pork belly recipe, we roast the meat at two different temperatures. In our toaster oven, we first roast at 400°F (205°C). Then, to help the skin crisp up, we turn the heat up to 425°F (218°C). If using a full-size oven, roast the first stage at 375°F (190°C), and the second stage at 400°F (205°C). Check out our recipe and instructions for precise timing
 

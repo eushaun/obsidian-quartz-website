@@ -33,24 +33,23 @@ Air fryer chicken breast is a versatile dinner main that's great with almost any
 
 ### Main Ingredients
 - 1.5oz skin-on, bone-in chicken breast
-- 0.5 teaspoon salt
-- 0.5 teaspoon oil
-- 0.5 teaspoon cornstarch
-
+- 0.5tsp salt
+- 0.5tsp oil
+- 0.5tsp cornstarch
 ### Marinade Ingredients
-- 1tablespoon garlic salt
-- 1tablespoon fish sauce
-- tablespoon oyster sauce
-- 1teaspoon light soy sauce
-- 3teaspoon sugar
-- 2teaspoon cooking wine
-- 1tablespoon cornstarch
-- 0.33teaspoon white pepper
+- 1tbsp garlic salt
+- 1tbsp fish sauce
+- 1tbsp oyster sauce
+- 1tsp light soy sauce
+- 3tsp sugar
+- 2tsp cooking wine
+- 1tbsp cornstarch
+- 0.33 tsp white pepper
 ### Dipping Sauce Ingredients
-- 1tablespoon oyster sauce
-- 1tablespoon light soy sauce
-- 1tablespoon hoisin sauce
-- 1tablespoon boiling water
+- 1tbsp oyster sauce
+- 1tbsp light soy sauce
+- 1tbsp hoisin sauce
+- 1tbsp boiling water
 
 ## Instructions
 
@@ -66,18 +65,18 @@ Cut a slit through the thickest parts of the chicken on the meat (not skin) side
 
 Rinse the chicken in water and dry with paper towels.
 
-In a small bowl, combine the **garlic salt** (1 tablespoon), **fish sauce** (1 tablespoon), **oyster sauce** (tablespoon), **light soy sauce** (1 teaspoon), **sugar** (3  teaspoon), **cooking wine** (2 teaspoon), **cornstarch** (1 tablespoon), and **white pepper** (0.33 teaspoon). Taste and adjust as needed.
+In a small bowl, combine the **garlic salt** (1 tbsp), **fish sauce** (1 tbsp), **oyster sauce** (1 tbsp), **light soy sauce** (1 tsp), **sugar** (3 tsp), **cooking wine** (2 tsp), **cornstarch** (1 tbsp), and **white pepper** (0.33 tsp). Taste and adjust as needed.
 
 Spoon the marinade onto the **meat side** of the **chicken breast**, making sure it goes into the cuts. If using **skinless chicken breast**, you can spoon the marinade to both sides. Allow the meat to marinate for at least 30 minutes.
 ### Step 3: Make dipping sauce
 
-In a small bowl, combine the **oyster sauce** (1 tablespoon), **light soy sauce** (1 tablespoon), **hoisin sauce** (1 tablespoon), and **water** (1 tablespoon). If desired, add **chili sauce** for spice. Mix until thoroughly combined.
+In a small bowl, combine the **oyster sauce** (1 tbsp), **light soy sauce** (1 tbsp), **hoisin sauce** (1 tbsp), and **water** (1 tbsp). If desired, add **chili sauce** for spice. Mix until thoroughly combined.
 ### Step 4: Air fry chicken
 
 Line the air fryer tray with aluminum foil with the shiny side facing up. Poke holes in the foil for ventilation.
 
 Place the **chicken breast** on the tray, meat side up and put it into the air fryer. Set the temperature to 375°F. Cook in the air fryer for 11 to 12 minutes.
 
-Flip chicken breasts so the skin side is up. Sprinkle on the **salt** (0.50 teaspoon) and spread on the **oil** (0.50 teaspoon) using a brush. Sprinkle on the **cornstarch** (0.50 teaspoon) and use the brush to spread it evenly across the skin. Place the **chicken** back into the air fryer, cook for another 11 to 12 minutes and check the color of the skin. For crispier, darker golden brown skin, cook for an additional 3 to 5 minutes.
+Flip chicken breasts so the skin side is up. Sprinkle on the **salt** (0.5 tsp) and spread on the **oil** (0.5 tsp) using a brush. Sprinkle on the **cornstarch** (0.5 tsp) and use the brush to spread it evenly across the skin. Place the **chicken** back into the air fryer, cook for another 11 to 12 minutes and check the color of the skin. For crispier, darker golden brown skin, cook for an additional 3 to 5 minutes.
 
 Remove the chicken and plate. You can cut before serving or cut it at the table.
